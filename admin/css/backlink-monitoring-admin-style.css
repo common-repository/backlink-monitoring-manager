@@ -1,0 +1,43 @@
+
+
+@font-face {
+    font-family: openSansRegular;
+    src: url(OpenSans-Regular.ttf);
+}
+
+#backlink-manager-core {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  margin-top: 20px;
+  min-width: 255px;
+  padding: 0.7em 2em 1em;
+  position: relative;
+  font-weight: bold;
+  font-family: openSansRegular;
+}
+
+.column-date{
+  width: 15% !important;
+}
+#status {
+  width: 10% !important;
+}
+#do_follow {
+  width: 10% !important;
+}
+.blm-field-required{
+    border-color:#a00 !important;
+}
+.blm-delete-link .dashicons:hover {
+  color:#a00 !important;
+}
+.add-link-btn {
+  float: right;
+}
+#blm_remove_link {
+  width: 5% !important;
+}
+#blm-links-search-btn {
+  margin-right: 10px;
+}
